@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h1>🌱 ### Hi there 👋 </h1>
+  <h1>🌱 Hi there 👋 </h1>
   
 ![Bin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bin-Choi&theme=dracula&show_icons=true)
 
