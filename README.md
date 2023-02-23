@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>🌱 Bin's Github </h1>
-### Hi there 👋
-![Bin's GitHub stats](src = https://github-readme-stats.vercel.app/api?username=Bin-Choi&theme=dracula&show_icons=true)
+![Bin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bin-Choi&theme=dracula&show_icons=true)
 
   <br/>
 
