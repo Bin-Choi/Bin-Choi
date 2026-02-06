@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>🌱 Hi there 👋 </h1>
   
-![Bin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bin-Choi&theme=dracula&show_icons=true)
-
-  <br/>
-
-<p><b>Languages</b></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bin-Choi&layout=compact)
-
   <br/>
 
   <p><b>Front-end Stack</b></p>
